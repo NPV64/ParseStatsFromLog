@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="UTF-8">
+<results>
+  <averages-by-hour date="2016-08-01">
+    <average hour="0">190.6</average>
+    <average hour="1">254.9</average>
+    <!-- ... -->
+  </averages-by-hour>
+	<!-- у общего результата не указан параметр date -->
+  <averages-by-hour>
+    <average date="2016-08-01">90.6</average>
+    <average date="2016-08-02">157.3</average>
+  </averages-by-hour>
+  <request-counts date="2016-08-01">
+    <request-count hour="0">326168</request-count>
+    <!-- ... -->
+  </request-counts>
+  <requests-by-country date="2016-08-01">
+  	<request-by-country country="RU">304823</request-by-country>
+		<request-by-country country="US">103473</request-by-country>
+		<request-by-country country="DE">93154</request-by-country>
+		<request-by-country country="UK">75828</request-by-country>
+		<!-- ... -->
+  </requests-by-country>
+	<!-- у общего результата не указан параметр date -->
+  <requests-by-country>
+  	<request-by-country country="RU">304823</request-by-country>
+		<request-by-country country="US">103473</request-by-country>
+		<request-by-country country="DE">93154</request-by-country>
+		<request-by-country country="UK">75828</request-by-country>
+		<!-- ... -->
+  </requests-by-country>
+	<times-by-url date="2016-08-01">
+		<time url="/api/users/pictures" avg="82.5" peak="1578.4">BAD</time>		
+		<time url="/api/users/profile" avg="12.5" peak="74.1">AVERAGE</time>
+		<time url="/api/auth/signup" avg="7.5" peak="15.4">GOOD</time>
+		<!-- ... -->
+	</times-by-url>
+	<problems-by-url date="2016-08-01">
+		<problem url="/api/users/pictures" status="500" count="42" />
+		<problem url="/api/entries" status="500" count="9" />
+		<!-- ... -->
+	</problems-by-url>
+
+	<ddos>
+		<ddos begin-time="2016-08-13 20:12:42" end-time="2016-08-13 23:17:13" />
+ 	</ddos>
+</results>
