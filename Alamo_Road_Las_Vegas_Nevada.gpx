@@ -1,0 +1,146 @@
+<?xml version="1.0"?>
+<gpx creator="GPS Visualizer http://www.gpsvisualizer.com/" version="1.1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<wpt lat="36.437442005" lon="-115.358685963">
+  <ele>892.2</ele>
+  <time>2015-05-17T16:25:15Z</time>
+  <name>001</name>
+  <sym>Flag, Blue</sym>
+  <type>user</type>
+</wpt>
+<wpt lat="36.438269969" lon="-115.357372016">
+  <ele>893.4</ele>
+  <time>2015-05-17T16:40:20Z</time>
+  <name>002</name>
+  <desc>Sign</desc>
+  <sym>Flag, Blue</sym>
+  <type>user</type>
+</wpt>
+<wpt lat="36.483143996" lon="-115.366926966">
+  <ele>982.8</ele>
+  <time>2015-05-17T16:57:23Z</time>
+  <name>003</name>
+  <desc>Joe may road</desc>
+  <sym>Flag, Blue</sym>
+  <type>user</type>
+</wpt>
+<wpt lat="36.53694802" lon="-115.403044">
+  <ele>1051.2</ele>
+  <time>2015-05-17T17:21:39Z</time>
+  <name>004</name>
+  <desc>Campsite</desc>
+  <sym>Flag, Blue</sym>
+  <type>user</type>
+</wpt>
+<wpt lat="36.552837007" lon="-115.396610973">
+  <ele>1089.0</ele>
+  <time>2015-05-17T17:28:19Z</time>
+  <name>005</name>
+  <desc>Cow camp road</desc>
+  <sym>Flag, Blue</sym>
+  <type>user</type>
+</wpt>
+<wpt lat="36.634875974" lon="-115.353566967">
+  <ele>1359.4</ele>
+  <time>2015-05-17T17:51:13Z</time>
+  <name>006</name>
+  <desc>Hidden forest road</desc>
+  <sym>Flag, Blue</sym>
+  <type>user</type>
+</wpt>
+<wpt lat="36.711666025" lon="-115.314972997">
+  <ele>1282.9</ele>
+  <time>2015-05-17T18:12:56Z</time>
+  <name>007</name>
+  <desc>White rock road</desc>
+  <sym>Flag, Blue</sym>
+  <type>user</type>
+</wpt>
+<wpt lat="36.753976028" lon="-115.301168002">
+  <ele>1299.8</ele>
+  <time>2015-05-17T18:30:00Z</time>
+  <name>008</name>
+  <desc>Deadhorse road</desc>
+  <sym>Flag, Blue</sym>
+  <type>user</type>
+</wpt>
+<wpt lat="36.798448982" lon="-115.297398996">
+  <ele>1353.2</ele>
+  <time>2015-05-17T18:54:06Z</time>
+  <name>009</name>
+  <desc>Slate mine road</desc>
+  <sym>Flag, Blue</sym>
+  <type>user</type>
+</wpt>
+<wpt lat="36.837390969" lon="-115.297113005">
+  <ele>1522.7</ele>
+  <time>2015-05-17T19:08:33Z</time>
+  <name>010</name>
+  <desc>Sheep pass</desc>
+  <sym>Flag, Blue</sym>
+  <type>user</type>
+</wpt>
+<trk>
+  <name>Alamo Road</name>
+  <trkseg>
+    <trkpt lat="36.437442005" lon="-115.358685963">
+      <ele>892.172791</ele>
+      <time>2015-05-17T16:25:15Z</time>
+      <sym>Flag, Blue</sym>
+    </trkpt>
+    <trkpt lat="36.438269969" lon="-115.357372016">
+      <ele>893.367126</ele>
+      <time>2015-05-17T16:40:20Z</time>
+      <cmt>Sign</cmt>
+      <sym>Flag, Blue</sym>
+    </trkpt>
+    <trkpt lat="36.483143996" lon="-115.366926966">
+      <ele>982.783142</ele>
+      <time>2015-05-17T16:57:23Z</time>
+      <cmt>Joe may road</cmt>
+      <sym>Flag, Blue</sym>
+    </trkpt>
+    <trkpt lat="36.53694802" lon="-115.403044">
+      <ele>1051.177124</ele>
+      <time>2015-05-17T17:21:39Z</time>
+      <cmt>Campsite</cmt>
+      <sym>Flag, Blue</sym>
+    </trkpt>
+    <trkpt lat="36.552837007" lon="-115.396610973">
+      <ele>1089.031738</ele>
+      <time>2015-05-17T17:28:19Z</time>
+      <cmt>Cow camp road</cmt>
+      <sym>Flag, Blue</sym>
+    </trkpt>
+    <trkpt lat="36.634875974" lon="-115.353566967">
+      <ele>1359.37915</ele>
+      <time>2015-05-17T17:51:13Z</time>
+      <cmt>Hidden forest road</cmt>
+      <sym>Flag, Blue</sym>
+    </trkpt>
+    <trkpt lat="36.711666025" lon="-115.314972997">
+      <ele>1282.858154</ele>
+      <time>2015-05-17T18:12:56Z</time>
+      <cmt>White rock road</cmt>
+      <sym>Flag, Blue</sym>
+    </trkpt>
+    <trkpt lat="36.753976028" lon="-115.301168002">
+      <ele>1299.840088</ele>
+      <time>2015-05-17T18:30:00Z</time>
+      <cmt>Deadhorse road</cmt>
+      <sym>Flag, Blue</sym>
+    </trkpt>
+    <trkpt lat="36.798448982" lon="-115.297398996">
+      <ele>1353.220947</ele>
+      <time>2015-05-17T18:54:06Z</time>
+      <cmt>Slate mine road</cmt>
+      <sym>Flag, Blue</sym>
+    </trkpt>
+    <trkpt lat="36.837390969" lon="-115.297113005">
+      <ele>1522.740967</ele>
+      <time>2015-05-17T19:08:33Z</time>
+      <cmt>Sheep pass</cmt>
+      <sym>Flag, Blue</sym>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>
